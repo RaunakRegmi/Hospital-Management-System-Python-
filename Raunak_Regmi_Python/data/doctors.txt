@@ -1,0 +1,6 @@
+John,Smith,Internal Med.
+Jone,Smith,Pediatrics
+Jone,Carlos,Cardiology
+Raunak,Regmi,Opthalmology
+Ram,Gopal,Chiropractor
+Sita,Gautam,Radiology
