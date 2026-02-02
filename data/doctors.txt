@@ -1,0 +1,11 @@
+Jone,Smith,Cardiology
+Raunak,Regmi,Opthalmology
+Ram,Gopal,Chiropractor
+Sita,Gautam,Radiology
+sarah,smith,opthalmologist
+rom,harsh,Eyes
+Sarah,Miles,Opthalmologist
+raunak,regmi,cardio
+Alex,Miles,Cardio
+Steven,miles,Opthamology
+Raunak,Regmii,Cardiology

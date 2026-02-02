@@ -1,0 +1,9 @@
+Sara,Smith,20,07012345678,B1 234,Sita Gautam,Feb,Fever|Headache
+Mike,Jones,37,07555551234,L2 2AB,Raunak Regmi,Jan,Chest pain
+Tom,Brown,50,07987654321,D3 4EF,raunak regmi,Feb,Back pain
+Emma,White,28,07456789012,E5 6GH,Sita Gautam,Mar,Allergy
+Alex,White,22,65456789012,E5 6GH,Sita Gautam,Mar,Allergy
+Liam,Green,33,07234567890,F7 8IJ,None,Mar,
+Olivia,Black,42,07123456780,G9 0KL,Jone Smith,Apr,Diabetes
+Noah,Gray,60,07345678901,H1 2MN,John Smith,Apr,High blood pressure
+Ava,Blue,25,07567890123,I3 4OP,Raunak Regmii,May,
